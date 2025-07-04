@@ -1,6 +1,6 @@
 <h1 align="center">E aí, eu sou o Domingues 👋</h1>
 
-<p align="center">Bem-vindo ao meu mundo dev! 🚀</p>
+<p align="center">👨🏼‍💻 Bem-vindo ao meu mundo dev! 🚀</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Dev+C%2C+HTML%2C+CSS%2C+JavaScript;Estudante+de+Engenharia+de+Software;Automação+com+n8n+e+GIT;Bem-vindo+ao+meu+GitHub!+🚀" alt="Typing SVG" />
@@ -10,7 +10,7 @@
 
 🎓 Estudante de Engenharia de Software e Análise e Desenvolvimento de Sistemas  
 💡 Interesses: `n8n`, `GIT`, `C`, `HTML`, `CSS`, `JavaScript`  
-🛠️ Atualmente desenvolvendo: Sites e Sistemas com C  
+🛠️ Atualmente desenvolvendo: Sites
 📍 Brasil - Paraná  
 
 ---
@@ -18,7 +18,7 @@
 ### 🚀 Projeto em destaque
 
 🔹 [Market Management System in C](https://github.com/akdomingues/market-system-c)  
-Sistema de vendas feito em C com árvore binária, lista ligada, ordenação `qsort` e persistência em arquivos.
+Sistema de vendas feito em C com árvore binária, lista encadeada, ordenação `qsort` e persistência em arquivos.
 
 ---
 
@@ -48,7 +48,7 @@ Sistema de vendas feito em C com árvore binária, lista ligada, ordenação `qs
 
 - 🧩 Amo desafios lógicos e resolver problemas no código  
 - 🤝 Gosto de colaborar e ajudar quem está aprendendo  
-- 📚 Sempre estudando algo novo (ou quebrando algo e consertando depois 😅)
+- 📚 Sempre estudando algo novo (ou quebrando algo e consertando depois 😁)
 
 ---
 
