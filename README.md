@@ -17,8 +17,8 @@
 
 ### 🚀 Projeto em destaque
 
-🔹 [Market Management System in C](https://github.com/akdomingues/market-system-c)  
-Sistema de vendas feito em C com árvore binária, lista encadeada, ordenação `qsort` e persistência em arquivos.
+🔹 [Login Preto e Branco](https://github.com/akdomingues/loginp-b)  
+Sistema de login feito com `HTML` e `CSS`.
 
 ---
 
