@@ -38,8 +38,8 @@ Sistema de login feito com `HTML` e `CSS`.
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=akdomingues&show_icons=true&theme=github_dark&count_private=true&hide_border=true" />
-</div> 
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=akdomingues&show_icons=true&theme=github_dark&hide_border=true" />
+</div>
 
 ---
 
