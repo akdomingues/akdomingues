@@ -44,13 +44,6 @@ Sistema de gerar animações para devs com IA `HTML`,`CSS`,`JAVASCRIPT` e `N8N`.
 
 ---
 
-### 🧠 Curiosidades sobre mim
-
-- 🧩 Amo desafios lógicos e resolver problemas no código  
-- 🤝 Gosto de colaborar e ajudar quem está aprendendo  
-- 📚 Sempre estudando algo novo (ou quebrando algo e consertando depois 😁)
-
----
 
 ### 📫 Contato
 
