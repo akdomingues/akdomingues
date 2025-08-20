@@ -3,7 +3,7 @@
 <p align="center">👨🏼‍💻 Bem-vindo ao meu mundo dev! 🚀</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Dev+C%2C+HTML%2C+CSS%2C+JavaScript;Estudante+de+Engenharia+de+Software;Automação+com+n8n+e+GIT;Bem-vindo+ao+meu+GitHub!+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Dev+C%2C+HTML%2C+CSS%2C+JavaScript;Estudante+de+Engenharia+de+Software;Estudante+de+Análise+e+Desenvolvimento+de+Sistemas;Automação+com+n8n+e+GIT;Bem-vindo+ao+meu+GitHub!+🚀" alt="Typing SVG" />
 </p>
 
 ---
