@@ -17,8 +17,8 @@
 
 ### 🚀 Projeto em destaque
 
-🔹 [Login Preto e Branco](https://github.com/akdomingues/loginp-b)  
-Sistema de login feito com `HTML` e `CSS`.
+🔹 [Login Preto e Branco]([https://github.com/akdomingues/loginp-b](https://github.com/akdomingues/AI-Animations))  
+Sistema de gerar animações para devs com IA `HTML`,`CSS`,`JAVASCRIPT` e `N8N`.
 
 ---
 
