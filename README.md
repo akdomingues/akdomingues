@@ -8,10 +8,10 @@
 
 ---
 
-🎓 Estudante de Engenharia de Software e Análise e Desenvolvimento de Sistemas  
-💡 Interesses: `n8n`, `GIT`, `C`, `HTML`, `CSS`, `JavaScript`  
-🛠️ Atualmente desenvolvendo: Sites
-📍 Brasil - Paraná  
+🔹 Estudante de Engenharia de Software e Análise e Desenvolvimento de Sistemas  
+🔹 Interesses: `n8n`, `GIT`, `C`, `HTML`, `CSS`, `JavaScript`  
+🔹 Atualmente desenvolvendo: Sites
+🔹 Brasil - Paraná  
 
 ---
 
