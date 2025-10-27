@@ -33,6 +33,8 @@ Sistema de gerar animações para devs com IA `HTML`,`CSS`,`JAVASCRIPT` e `N8N`.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" style="background-color:#1E1E2E;border-radius:12px;padding:8px;margin:5px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" style="background-color:#1E1E2E;border-radius:12px;padding:8px;margin:5px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" style="background-color:#1E1E2E;border-radius:12px;padding:8px;margin:5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="48" height="48" style="background-color:#1E1E2E;border-radius:12px;padding:8px;margin:5px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="48" height="48" style="background-color:#1E1E2E;border-radius:12px;padding:8px;margin:5px;"/>
 </div>
 
 ---
