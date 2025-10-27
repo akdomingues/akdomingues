@@ -25,13 +25,17 @@ Sistema de gerar animações para devs com IA `HTML`,`CSS`,`JAVASCRIPT` e `N8N`.
 ### 🧰 Tecnologias que uso
 
 <div align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/n8n-FF6B00?style=for-the-badge&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" style="background-color:#1E1E2E;border-radius:12px;padding:8px;margin:5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="48" height="48" style="background-color:#1E1E2E;border-radius:12px;padding:8px;margin:5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48" height="48" style="background-color:#1E1E2E;border-radius:12px;padding:8px;margin:5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" style="background-color:#1E1E2E;border-radius:12px;padding:8px;margin:5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodedotjs/nodedotjs-original.svg" width="48" height="48" style="background-color:#1E1E2E;border-radius:12px;padding:8px;margin:5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" style="background-color:#1E1E2E;border-radius:12px;padding:8px;margin:5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="48" height="48" style="background-color:#1E1E2E;border-radius:12px;padding:8px;margin:5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" style="background-color:#1E1E2E;border-radius:12px;padding:8px;margin:5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" style="background-color:#1E1E2E;border-radius:12px;padding:8px;margin:5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" style="background-color:#1E1E2E;border-radius:12px;padding:8px;margin:5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" style="background-color:#1E1E2E;border-radius:12px;padding:8px;margin:5px;" />
 </div>
 
 ---
