@@ -15,13 +15,6 @@
 
 ---
 
-### 🚀 Projeto em destaque
-
-🔹 [Animações com IA]([https://github.com/akdomingues/loginp-b](https://github.com/akdomingues/AI-Animations))  
-Sistema de gerar animações para devs com IA `HTML`,`CSS`,`JAVASCRIPT` e `N8N`.
-
----
-
 ### 🧰 Tecnologias que uso
 
 <div align="center">
