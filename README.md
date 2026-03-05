@@ -10,7 +10,6 @@
 
 🔹 Estudante de Engenharia de Software e Análise e Desenvolvimento de Sistemas  
 🔹 Interesses: `N8N`, `GIT`, `C`, `HTML`, `CSS`, `JavaScript`, `JAVA`, `MYSQL`, `DOCKER` 
-
 🔹 Atualmente desenvolvendo: Projetos Pessoais                
 🔹 Brasil - Paraná  
 
