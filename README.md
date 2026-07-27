@@ -22,7 +22,7 @@
 
 ## 🎯 Interests
 
-`C` • `HTML` • `CSS` • `JavaScript` • `Java` • `MySQL` • `Git` • `Docker` • `n8n` • `Postman`
+`Java` • `Spring Boot` • `JavaScript` • `HTML` • `CSS` • `MySQL` • `PostgreSQL` • `Git` • `GitHub` • `Docker` • `Bootstrap` • `Postman` • `VS Code` • `IntelliJ IDEA`
 
 ---
 
